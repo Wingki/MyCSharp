@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2K5G8E2u7QhIoesHPGUnV/9tcdoH1SOPa9cyu0WdSZrz0R0o7OcQksOMvWPRibw3tAJd8rR9iO5YXgKeLRLEdg==",
+  "dgSpecHash": "pqbMds1p1zWTRbvcdyc58jPbZ/svNZDhs/WYb2pmhkUxcihJNO2BfvdZ9Ez0il0p8nJs9VeOT7tlke9M5uYj+g==",
   "success": true,
-  "projectFilePath": "/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharpApp2.csproj",
+  "projectFilePath": "/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/MyCSharpApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

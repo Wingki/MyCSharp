@@ -1,0 +1,15 @@
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/bin/Debug/net7.0/MyCSharpApp2
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/bin/Debug/net7.0/MyCSharpApp2.deps.json
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/bin/Debug/net7.0/MyCSharpApp2.runtimeconfig.json
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/bin/Debug/net7.0/MyCSharpApp2.dll
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/bin/Debug/net7.0/MyCSharpApp2.pdb
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.csproj.AssemblyReference.cache
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.AssemblyInfoInputs.cache
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.AssemblyInfo.cs
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.csproj.CoreCompileInputs.cache
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.dll
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/refint/MyCSharpApp2.dll
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.pdb
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/MyCSharpApp2.genruntimeconfig.cache
+/Users/macbookpro/MyCSharpApp/MyCSharpApp2/MyCSharp/obj/Debug/net7.0/ref/MyCSharpApp2.dll
